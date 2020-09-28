@@ -1,8 +1,5 @@
 # Accord Project Web Components
 
-[![Build Status](https://travis-ci.org/accordproject/web-components.svg?branch=master)](https://travis-ci.org/accordproject/web-components) 
-[![join slack](https://img.shields.io/badge/Accord%20Project-Join%20Slack-blue)](https://accord-project-slack-signup.herokuapp.com/)
-
 This repository contains a library of user interface components that can be used to create web-applications based on Accord Project technology. The components use the [React](https://reactjs.org) web application framework.
 
 Use the interactive [Storybook][storybook] to discover the components and their properties.
